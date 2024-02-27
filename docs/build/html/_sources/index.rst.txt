@@ -10,12 +10,7 @@ Welcome to H&M Adventures
    :maxdepth: 2
    :caption: Contents:
 
+   drone
    norwegen
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
