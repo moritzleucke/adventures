@@ -1,10 +1,8 @@
 # Norwegen (März 24)
 
-wow das wird nice!
+- start: 10.03.24
+- ende: 20.03.24
 
-!!! note das wird nice
 
-!!! note
-    wow
 
 
