@@ -7,15 +7,15 @@ H&M Fotoalbum
 =============
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Urlaube:
+   :maxdepth: 1
+   :caption: Urlaube
 
    riesengebirge
    norwegen
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Ausflüge
 
    drone
